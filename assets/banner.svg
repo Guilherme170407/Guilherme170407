@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="Guilherme - Desenvolvedor Back-end">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0c26"/>
+      <stop offset="1" stop-color="#060614"/>
+    </linearGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#25255a"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <g id="chip">
+      <rect width="50" height="44" rx="4" fill="#0f0f2e" stroke="url(#g)" stroke-width="1.5"/>
+      <path d="M-7 10h7M-7 22h7M-7 34h7M50 10h7M50 22h7M50 34h7" stroke="#6d6dd8" stroke-width="2" fill="none"/>
+    </g>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="238" rx="14" fill="url(#bg)" stroke="url(#g)" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="238" rx="14" fill="url(#dots)"/>
+
+  <g fill="none" stroke="#4b3fb0" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M30 40 H120 L150 85 H230"/>
+    <path d="M30 120 H230"/>
+    <path d="M30 200 H120 L150 155 H230"/>
+    <path d="M870 40 H780 L750 85 H670"/>
+    <path d="M870 120 H670"/>
+    <path d="M870 200 H780 L750 155 H670"/>
+  </g>
+
+  <g fill="none" stroke="#60a5fa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 92" filter="url(#glow)">
+    <path pathLength="100" d="M30 40 H120 L150 85 H230"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.2s" repeatCount="indefinite"/></path>
+    <path pathLength="100" d="M30 120 H230"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></path>
+    <path pathLength="100" d="M30 200 H120 L150 155 H230"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.6s" begin="1.1s" repeatCount="indefinite"/></path>
+    <path pathLength="100" d="M870 40 H780 L750 85 H670"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.4s" begin="0.3s" repeatCount="indefinite"/></path>
+    <path pathLength="100" d="M870 120 H670"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.8s" begin="0.9s" repeatCount="indefinite"/></path>
+    <path pathLength="100" d="M870 200 H780 L750 155 H670"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.8s" begin="1.4s" repeatCount="indefinite"/></path>
+  </g>
+
+  <g fill="#0c0c26" stroke="#8b5cf6" stroke-width="2.5">
+    <circle cx="30" cy="40" r="5"/><circle cx="30" cy="120" r="5"/><circle cx="30" cy="200" r="5"/>
+    <circle cx="870" cy="40" r="5"/><circle cx="870" cy="120" r="5"/><circle cx="870" cy="200" r="5"/>
+    <circle cx="230" cy="85" r="4"/><circle cx="230" cy="120" r="4"/><circle cx="230" cy="155" r="4"/>
+    <circle cx="670" cy="85" r="4"/><circle cx="670" cy="120" r="4"/><circle cx="670" cy="155" r="4"/>
+  </g>
+
+  <g font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" fill="#c4b5fd" text-anchor="middle">
+    <g transform="translate(60,62)"><use href="#chip"/><text x="25" y="27">PY</text></g>
+    <g transform="translate(60,140)"><use href="#chip"/><text x="25" y="27">PHP</text></g>
+    <g transform="translate(790,62)"><use href="#chip"/><text x="25" y="27">JS</text></g>
+    <g transform="translate(790,140)"><use href="#chip"/><text x="25" y="27">CSS</text></g>
+  </g>
+
+  <rect x="230" y="62" width="440" height="116" rx="12" fill="#0b0b26" stroke="url(#g)" stroke-width="2.5" filter="url(#glow)"/>
+  <rect x="240" y="72" width="420" height="96" rx="8" fill="none" stroke="#2a2a66" stroke-width="1"/>
+  <g fill="#14143a" stroke="#6d6dd8" stroke-width="1.5">
+    <circle cx="244" cy="76" r="3.5"/><circle cx="656" cy="76" r="3.5"/>
+    <circle cx="244" cy="164" r="3.5"/><circle cx="656" cy="164" r="3.5"/>
+  </g>
+  <text x="450" y="120" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="46" font-weight="700" letter-spacing="9" fill="url(#g)" filter="url(#glow)">GUILHERME</text>
+  <rect x="330" y="132" width="240" height="2" fill="url(#g)" opacity="0.7"/>
+  <text x="450" y="154" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="5" fill="#a5b4fc">DESENVOLVEDOR BACK-END</text>
+</svg>
