@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130" role="img" aria-label="Desenvolvimento back-end. Python, PHP, HTML, CSS e JavaScript">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <pattern id="matrix" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.1" fill="#17173f"/>
+    </pattern>
+    <filter id="glow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="128" rx="14" fill="#0a0a1e" stroke="url(#g)" stroke-width="2"/>
+  <rect x="18" y="16" width="864" height="98" rx="6" fill="#05050f" stroke="#1d1d4a" stroke-width="1.5"/>
+  <rect x="18" y="16" width="864" height="98" rx="6" fill="url(#matrix)"/>
+
+  <g fill="#14143a" stroke="#6d6dd8" stroke-width="1.5">
+    <circle cx="9" cy="9" r="3"/><circle cx="891" cy="9" r="3"/>
+    <circle cx="9" cy="121" r="3"/><circle cx="891" cy="121" r="3"/>
+  </g>
+
+  <g font-family="'Courier New', Consolas, monospace" font-weight="700" text-anchor="middle" filter="url(#glow)">
+    <text x="450" y="58" font-size="26" letter-spacing="7" fill="#a78bfa">DESENVOLVIMENTO BACK-END</text>
+    <text x="450" y="94" font-size="20" letter-spacing="6" fill="#60a5fa">PYTHON / PHP / HTML / CSS / JAVASCRIPT</text>
+  </g>
+
+  <circle cx="862" cy="32" r="4" fill="#60a5fa" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
