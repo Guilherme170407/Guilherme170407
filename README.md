@@ -1,95 +1,68 @@
-<!-- Perfil de Guilherme170407 · tema Terminal Neon -->
+<div align="center">
+  <img src="assets/banner.svg" alt="Guilherme - Desenvolvedor Back-end" width="100%" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:00e5ff&height=200&section=header&text=Guilherme&fontSize=64&fontColor=0b0f14&fontAlignY=38&desc=back-end%20%7C%20python%20%7C%20php&descSize=20&descAlignY=60&descColor=0b0f14&animation=fadeIn" alt="Guilherme - back-end, python, php" />
+<div align="center">
+  <img src="assets/led.svg" alt="Desenvolvimento back-end. Python, PHP, HTML, CSS e JavaScript" width="100%" />
+</div>
+
+<br />
+
+Desenvolvedor em formação com foco em back-end, utilizando Python e PHP, e com base em front-end com HTML, CSS e JavaScript. Tenho interesse em construir aplicações completas, da interface à lógica do servidor, com código organizado e boas práticas.
+
+Tenho experiência em projetos acadêmicos em equipe, com versionamento em Git e GitHub, incluindo uma rede social para desenvolvedores e uma aplicação de controle financeiro com inteligência artificial integrada. Sigo aprofundando meus conhecimentos em desenvolvimento back-end.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-lucas-correa-/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" height="52" /></a>
+  <a href="mailto:guihluc07@gmail.com"><img src="assets/contact-email.svg" alt="E-mail" height="52" /></a>
+  <a href="https://www.instagram.com/__guixz7/"><img src="assets/contact-instagram.svg" alt="Instagram" height="52" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/header-ferramentas.svg" alt="Ferramentas" width="100%" />
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&height=50&lines=%3E+whoami;%3E+guilherme+%E2%80%94+dev+back-end+em+constru%C3%A7%C3%A3o;%3E+python+%2B+php+%2B+muita+curiosidade;%3E+compilando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95)](https://github.com/Guilherme170407)
+![Python](https://img.shields.io/badge/Python-0d0d2b?style=for-the-badge&logo=python&logoColor=8b5cf6)
+![PHP](https://img.shields.io/badge/PHP-0d0d2b?style=for-the-badge&logo=php&logoColor=3b82f6)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d2b?style=for-the-badge&logo=html5&logoColor=8b5cf6)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d2b?style=for-the-badge&logo=css3&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d2b?style=for-the-badge&logo=javascript&logoColor=8b5cf6)
+![Git](https://img.shields.io/badge/Git-0d0d2b?style=for-the-badge&logo=git&logoColor=3b82f6)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=8b5cf6)
 
 </div>
 
----
-
-## `./sobre`
-
-```bash
-$ cat guilherme.txt
-
-nome        : Guilherme
-foco        : Desenvolvimento back-end
-linguagens  : Python, PHP (e JS/HTML/CSS pra deixar bonito)
-modo        : aprendendo todo dia, quebrando e consertando
-humor       : 99% bem-humorado (o 1% restante é bug em produção)
-```
-
-Sou um desenvolvedor back-end em formação, curioso por natureza. Se eu descubro **como** algo funciona, não sossego até entender o **porquê**. Gosto de aprender fazendo: projeto novo, erro novo, aprendizado novo.
-
----
-
-## `./stack`
+<br />
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-0b0f14?style=for-the-badge&logo=python&logoColor=00ff9c)
-![PHP](https://img.shields.io/badge/PHP-0b0f14?style=for-the-badge&logo=php&logoColor=00e5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b0f14?style=for-the-badge&logo=javascript&logoColor=00ff9c)
-![HTML5](https://img.shields.io/badge/HTML5-0b0f14?style=for-the-badge&logo=html5&logoColor=00e5ff)
-![CSS3](https://img.shields.io/badge/CSS3-0b0f14?style=for-the-badge&logo=css3&logoColor=00ff9c)
-![Git](https://img.shields.io/badge/Git-0b0f14?style=for-the-badge&logo=git&logoColor=00e5ff)
-![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=00ff9c)
-
+  <img src="assets/header-projetos.svg" alt="Projetos" width="100%" />
 </div>
 
----
+### FinanceAI
 
-## `./projetos`
+Aplicação de controle financeiro com assistente de inteligência artificial integrado, que responde às dúvidas do usuário sobre as suas finanças. Projeto acadêmico.
 
-### 🌐 DevNetwork — rede social para desenvolvedores
-Projeto em equipe da disciplina de Front-End para Web: uma rede social pensada para quem está começando na programação, reunindo feed, perfis, comunidades, vagas e mensagens em um só lugar.
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d2b?style=flat-square&logo=javascript&logoColor=8b5cf6) &nbsp; [Ver repositório](https://github.com/Guilherme170407/financeai)
 
-- **Minha parte:** a página **Rede** (conexões entre pessoas), com busca, conectar, cancelar pedido, aceitar, recusar e desfazer em JavaScript, além dos perfis de exemplo e dos caminhos relativos em todas as páginas.
-- **Stack:** HTML5 semântico · CSS · JavaScript · Git/GitHub em equipe
-- 🔗 [Ver repositório](https://github.com/fellipeaguiardev/ProjetodoPaulo)
+### DevNetwork
 
-### 💸 FinanceAI — controle financeiro com IA
-Projeto acadêmico de controle financeiro com uma **IA integrada** que tira dúvidas do usuário sobre suas finanças.
+Rede social voltada a desenvolvedores iniciantes, desenvolvida em equipe na disciplina de Desenvolvimento Front-End para Web. Fui responsável pela página Rede, com busca, conexões e perfis, com interações em JavaScript.
 
-- **Stack:** JavaScript
-- 🔗 [Ver repositório](https://github.com/Guilherme170407/financeai)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d2b?style=flat-square&logo=html5&logoColor=8b5cf6) ![CSS3](https://img.shields.io/badge/CSS3-0d0d2b?style=flat-square&logo=css3&logoColor=3b82f6) ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d2b?style=flat-square&logo=javascript&logoColor=8b5cf6) ![Git](https://img.shields.io/badge/Git-0d0d2b?style=flat-square&logo=git&logoColor=3b82f6) &nbsp; [Ver repositório](https://github.com/fellipeaguiardev/ProjetodoPaulo)
 
----
-
-## `./stats`
+<br />
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilherme170407&show_icons=true&hide_border=false&bg_color=0b0f14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&border_color=00ff9c&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme170407&layout=compact&bg_color=0b0f14&title_color=00ff9c&text_color=c9d1d9&border_color=00ff9c&locale=pt-br" alt="Linguagens mais usadas" />
-
+  <img src="assets/header-atividade.svg" alt="Atividade" width="100%" />
 </div>
-
----
-
-## `./proximos-passos`
-
-- [x] Fundamentos de HTML, CSS e JavaScript
-- [x] Primeiros projetos em equipe
-- [ ] Aprofundar back-end com **Python** e **PHP**
-- [ ] Construir APIs e trabalhar com bancos de dados
-- [ ] Continuar aprendendo (sempre)
-
----
-
-## `./contato`
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/guilherme-lucas-correa-/)
-[![E-mail](https://img.shields.io/badge/E--mail-0b0f14?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:guihluc07@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0b0f14?style=for-the-badge&logo=instagram&logoColor=00e5ff)](https://www.instagram.com/__guixz7/)
-
-`> bora trocar ideia? meu terminal está sempre aberto.`
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme170407/Guilherme170407/output/snake-dark.svg" />
+    <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Guilherme170407/Guilherme170407/output/snake.svg" width="100%" />
+  </picture>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:00ff9c&height=120&section=footer" alt="" />
