@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-label="Projetos">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="27" width="310" height="2" fill="url(#g)" opacity="0.8"/>
+  <rect x="580" y="27" width="310" height="2" fill="url(#g)" opacity="0.8"/>
+  <rect x="320" y="23" width="10" height="10" transform="rotate(45 325 28)" fill="#8b5cf6"/>
+  <rect x="570" y="23" width="10" height="10" transform="rotate(45 575 28)" fill="#3b82f6"/>
+  <text x="450" y="36" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="22" font-weight="700" letter-spacing="9" fill="url(#g)">PROJETOS</text>
+</svg>
